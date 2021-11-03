@@ -1,0 +1,1 @@
+{"uuid":"7ad0debe-32b0-4748-a80e-86cee6a7397b","name":"SeleniumTest2","children":["9b039166-4a75-4cd5-b166-ae10d477f80c"],"befores":[],"afters":[{"name":"clearCookieAndLocalStorage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1634934301752,"stop":1634934301868}],"start":1634934296465,"stop":1634934301869}
