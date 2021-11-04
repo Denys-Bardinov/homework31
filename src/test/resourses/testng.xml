@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test name="D:/SeleniumTest2">
         <classes>
-            <class name="tests.rozetkaTests.SearchApartmentTest"/>
+            <class name="tests.rozetkaTests.RozetkaTests"/>
         </classes>
     </test>
 </suite>
